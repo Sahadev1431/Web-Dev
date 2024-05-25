@@ -9,7 +9,7 @@ let db = new pg.Client({
   user : "postgres",
   host : "localhost",
   database : "world",
-  password : "Chikujiyu#1431",
+  password : "123456",
   port : 1818
 })
 
