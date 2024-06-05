@@ -5,6 +5,7 @@ export default function Card(props) {
 
         <div className="card">
             <div className="top">
+                {/* <p>{props.propKey}</p> */}
                 <h2 className="name">{props.name}</h2>
                 <img className="circle-img"
                     src={props.imgURL}
