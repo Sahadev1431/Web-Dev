@@ -14,6 +14,6 @@ import React from "react";
 import ReactDOM from 'react-dom/client';
 
 //here importing various App
-import App9 from "./App9.jsx";
+import App7 from "./App7.jsx";
 
-ReactDOM.createRoot(document.getElementById("root")).render(<App9 />);
+ReactDOM.createRoot(document.getElementById("root")).render(<App7 />);

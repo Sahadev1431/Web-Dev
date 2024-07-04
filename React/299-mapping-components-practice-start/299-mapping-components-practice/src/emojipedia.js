@@ -23,3 +23,9 @@ const emojipedia = [
 ];
 
 export default emojipedia;
+
+// console.log(emojipedia);
+
+const Char100 = emojipedia.map((item)=> item.meaning.substring(0,100));
+
+console.log(Char100);
